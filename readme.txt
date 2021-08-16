@@ -4,5 +4,6 @@
 
 **Technologies:**
 * HTML
-* CSS
+* SCSS
 * Boostrap
+
